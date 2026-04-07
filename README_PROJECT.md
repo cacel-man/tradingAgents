@@ -2,6 +2,8 @@
 
 Multi-agent LLM trading analysis framework with visual chart intelligence.
 
+English | [日本語](README_PROJECT_ja.md)
+
 ## Background
 
 This project builds on [TradingAgents](https://github.com/TauricResearch/TradingAgents) (Xiao et al., 2024), a multi-agent trading framework that mirrors real-world trading firm dynamics. The original paper proposes specialized LLM agents -- fundamental analysts, sentiment experts, technical analysts, traders, and risk managers -- that collaboratively evaluate market conditions through structured debates.
