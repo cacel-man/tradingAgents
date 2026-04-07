@@ -217,3 +217,13 @@ __marimo__/
 
 # Cache
 **/data_cache/
+
+# OMC state
+.omc/
+
+# Results
+results/
+
+# TradingView MCP
+integrations/tradingview-mcp/
+integrations/tradingview/screenshots/
